@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="setVK">
+    <output-path>$PROJECT_DIR$/out/artifacts/setVK</output-path>
+    <root id="archive" name="setVK.jar">
+      <element id="library" level="project" name="lib" />
+      <element id="module-output" name="setVK" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
